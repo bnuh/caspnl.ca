@@ -1,4 +1,10 @@
-
+<?php
+    session_start();
+    if (!isset($_SESSION["login"])) {
+    header( 'Location: index.php' );
+    }
+    else {}
+?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -19,7 +25,7 @@
   <nav class="navbar navbar-default" style="border-radius: 0">
     <div class="container-fluid">
       <div class="navbar-header">
-          <a class="navbar-brand" href="index.php">Cardiovascular Assessment Screening Program</a>
+          <a class="navbar-brand" href="login.php">Cardiovascular Assessment Screening Program</a>
       </div>
       <div>
         <ul class="nav navbar-nav">
