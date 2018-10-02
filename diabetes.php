@@ -1,10 +1,10 @@
-/*<?php
-    session_start();
-    if (!isset($_SESSION["login"])) {
-    header( 'Location: index.php' );
-    }
-    else {}
-?>*/
+<?php
+//    session_start();
+//    if (!isset($_SESSION["login"])) 
+//   header( 'Location: index.php' );
+//    }
+//    else {}
+?>
 
 <!DOCTYPE html>
 <html lang="en">
