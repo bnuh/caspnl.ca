@@ -96,7 +96,7 @@
     <center>
     <div class="container-fluid">
       <svg version="1.1" id="decision-tree" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-        y="0px" viewBox="0 20 1000 588.2" width="0%" opacity="0%" style="enable-background:new 0 0 1000 588.2;" xml:space="preserve">
+        y="0px" viewBox="0 20 1000 588.2" width="0%" opacity="100%" style="enable-background:new 0 0 1000 588.2;" xml:space="preserve">
         <path id="ASSESSED-ARROW" d="M355.9,139.1l13.2,29l13.2-29H374v-30.7h-9.7v30.7H355.9z"/>
         <path id="INTERRISK-ARROW2" d="M355.9,464.8l13.2,29l13.2-29H374v-30.7h-9.7v30.7H355.9z"/>
         <path id="LOWRISK-ARROW2" d="M110.5,464.8l13.2,29l13.2-29h-8.4v-30.7h-9.7v30.7H110.5z"/>
